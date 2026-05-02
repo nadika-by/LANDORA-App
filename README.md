@@ -13,7 +13,15 @@
 **LANDORA App** — это глобальное супер-приложение (Super-App), объединяющее технологии Web3, экологические инициативы и управление человеческим капиталом в единую прозрачную экосистему. 
 
 **Миссия:** Создание гармоничного пространства для труда, экологии и процветания каждого человека.---
+### Key Features
+* **Universal Access:** Single entry point for all ecosystem services.
+* **Asset Management:** Real-time tracking of resources and capital.
+* **Security:** High-level data protection and blockchain-based transparency.
 
+### Основные возможности
+* **Универсальный доступ:** Единая точка входа для всех сервисов экосистемы.
+* **Управление активами:** Отслеживание ресурсов и капитала в реальном времени.
+* **Безопасность:** Высокий уровень защиты данных и прозрачность на базе блокчейна.
 ### [EN] Technical Stack & Status
 * **Blockchain:** Solana (SPL Tokens, Smart Contracts)
 * **Architecture:** DePIN (Decentralized Physical Infrastructure Networks)
