@@ -23,3 +23,14 @@
 * **Блокчейн:** Solana (SPL токены, смарт-контракты)
 * **Архитектура:** DePIN (Децентрализованные сети физической инфраструктуры)
 * **Статус:** Концептуальная архитектура / Разработка MVP
+---
+
+### [EN] Contacts & Cooperation
+For partnership inquiries and investment proposals, please contact the author of the project.
+
+**License:** All rights reserved. (c) 2026 LANDORA
+
+### [RU] Контакты и Сотрудничество
+По вопросам партнерства и инвестиционных предложений, пожалуйста, связывайтесь с автором проекта.
+
+**Лицензия:** Все права защищены. (c) 2026 LANDORA
