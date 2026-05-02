@@ -1,6 +1,6 @@
 # LANDORA App
 
-<img src="logo.jpg" width="100%" alt="LANDORA App Logo">
+<img src="Лого LANDORA app.png" width="100%" alt="LANDORA App Logo">
 
 ## [RU] О проекте
 **LANDORA App** — это глобальное супер-приложение (Super-App), объединяющее технологии Web3, экологические инициативы и управление человеческим капиталом в единую прозрачную экосистему. 
