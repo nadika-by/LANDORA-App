@@ -5,9 +5,9 @@
 ---
 
 ### 1. Ownership / Собственность
-**[EN]** This repository and all contained materials, including the application concept, business logic, architecture, and "LANDORA" branding, are the exclusive intellectual property of the author and owner: **Nadezhda Kazantseva**.
+**[EN]** This repository and all contained materials, including the application concept, business logic, architecture, and "LANDORA App" branding, are the exclusive intellectual property of the author and owner: **Nadezhda Kazantseva**.
 
-**[RU]** Данный репозиторий и все содержащиеся в нем материалы, включая концепцию приложения, бизнес-логику, архитектуру и брендинг "LANDORA", являются исключительной интеллектуальной собственностью автора и собственника идеи проекта: **Надежды Казанцевой**.
+**[RU]** Данный репозиторий и все содержащиеся в нем материалы, включая концепцию приложения, бизнес-логику, архитектуру и брендинг "LANDORA App", являются исключительной интеллектуальной собственностью автора и собственника идеи проекта: **Надежды Казанцевой**.
 
 ### 2. Restrictions / Ограничения
 Unauthorized copying, modification, or commercial use of these materials via any medium is strictly prohibited without explicit written permission from the owner.
